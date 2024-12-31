@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rameshwarmutekar
 - 👀 I’m interested in java 
 - 🌱 I’m currently learning java,javascript
-- 💞️ 
 - 📫 How to reach me by gmail rameshwarmutekar2002@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love to do crazy prank
